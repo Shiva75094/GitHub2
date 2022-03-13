@@ -8,6 +8,8 @@ public class GitHubTest
 	public void github()
 	{
 		System.out.println("My first committ user 1");
+		
+		System.out.println("My first committ user 2");
 	}
 
 }
