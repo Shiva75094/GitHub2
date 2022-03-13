@@ -10,6 +10,7 @@ public class GitHubTest
 		System.out.println("My first committ user 1");
 		
 		System.out.println("My first committ user 2");
+		
+		System.out.println("My secound committ user 1");
 	}
-
 }
