@@ -13,6 +13,10 @@ public class GitHubTest
 		
 		System.out.println("My secound committ user 1");
 		
+
 		System.out.println("My third committ user 1 --->  git conflict");
+
+		System.out.println("My secound committ user 2");
+
 	}
 }

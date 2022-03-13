@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121" started-at="2022-03-13T15:50:09 IST" finished-at="2022-03-13T15:50:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121" started-at="2022-03-13T15:50:09 IST" finished-at="2022-03-13T15:50:09 IST">
+      <class name="GitHub.GitHubTest">
+        <test-method status="PASS" signature="github()[pri:0, instance:GitHub.GitHubTest@5d76b067]" name="github" duration-ms="19" started-at="2022-03-13T15:50:09 IST" finished-at="2022-03-13T15:50:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- github -->
+      </class> <!-- GitHub.GitHubTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
